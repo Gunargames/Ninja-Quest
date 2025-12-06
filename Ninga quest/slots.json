@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Slot 1",
+    "created": true
+  },
+  {
+    "name": "Slot 2",
+    "created": false
+  },
+  {
+    "name": "Slot 3",
+    "created": false
+  }
+]
